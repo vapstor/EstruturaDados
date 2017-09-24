@@ -1,4 +1,4 @@
-/* Copyright [2017] <Acauã Pitta> */
+/* Copyright [2017] < Acauã Pitta > */
 #ifndef STRUCTURES_ARRAY_STACK_H
 #define STRUCTURES_ARRAY_STACK_H
 
